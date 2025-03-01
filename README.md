@@ -1,4 +1,4 @@
-# daily_widgets
+# Daily_widgets & NEw Concepts
 
 A new Flutter project.
 
